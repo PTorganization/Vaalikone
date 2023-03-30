@@ -1,4 +1,4 @@
 
-# lab1
+# Vaalikone
 Software Delivery Tools kurssin tehtävä
 
